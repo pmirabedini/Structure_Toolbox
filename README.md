@@ -1,13 +1,16 @@
 # Structure_Toolbox
 
 Class structures does structure transformation such as:
-"currently it includes crystal structure opperation. But molecular operations will be added as well"
 
 - define  a unitcell (available)
 - create supercell (available)
 - visualize atoms in supercell (simple version available)
 - generate slabs (in progress)
 - and more!
+
+
+Currently it includes crystal structure opperation. But molecular operations will be added as well.
+
 
 ## sample input:
 
