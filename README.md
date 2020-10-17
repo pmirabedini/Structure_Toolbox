@@ -1,5 +1,4 @@
-
-#Structure Toolbox
+<hash> <Structure_Toolbox>
 
 Class structures does structure transformation such as:
 "currently it includes crystal structure opperation. But molecular operations will be added as well"
