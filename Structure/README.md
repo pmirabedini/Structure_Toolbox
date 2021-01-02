@@ -1,4 +1,4 @@
-# Structure_Toolbox
+## Structure
 
 Class structures can be used to:
 
@@ -9,7 +9,7 @@ Class structures can be used to:
 - and more!
 
 
-## sample input:
+### sample input:
 
 Consider a simple cubic structure with lattice vectors: a=b=c=2.
  
