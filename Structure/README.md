@@ -11,7 +11,7 @@ Class structures can be used to:
 
 ## sample input:
 
-A sample input if a simple cubic structure and lattice vectors: a=b=c=2.
+Consider a simple cubic structure with lattice vectors: a=b=c=2.
  
 Number of requested periodic images is (2x,2y,1z). 
 
