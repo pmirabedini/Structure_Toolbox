@@ -2,7 +2,7 @@
 
 Structure toolbox does structure generation/transformation such as:
 
-## Class_Structure
+## Class_Structures
 - defines  a unitcell (available)
 - creates supercell (available)
 - visualizes atoms in supercell (simple version available)
